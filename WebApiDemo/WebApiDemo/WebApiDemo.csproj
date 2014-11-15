@@ -109,7 +109,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BasicAuthenticationIdentity.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\MyApiController.cs" />
     <Compile Include="Global.asax.cs">
