@@ -13,7 +13,7 @@ namespace WebApiRetreiver
 		private readonly string apiURLLocation = ConfigurationManager.AppSettings["ApiURLLocation"];
 		private readonly string apiAuthorization = ConfigurationManager.AppSettings["ApiCredential"];
 
-		public void Retreiver()
+		public void Retriever()
 		{
 			var serializer = new JsonSerializer();
 

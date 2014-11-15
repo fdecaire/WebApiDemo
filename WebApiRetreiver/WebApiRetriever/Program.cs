@@ -17,7 +17,7 @@ namespace WebApiRetreiver
 		{
 			WebApiRetriever webApiRetreiver = new WebApiRetriever();
 
-			webApiRetreiver.Retreiver();
+			webApiRetreiver.Retriever();
 		}
 	}
 }
