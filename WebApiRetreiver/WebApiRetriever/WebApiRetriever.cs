@@ -25,7 +25,7 @@ namespace WebApiRetreiver
 
 			var request = (HttpWebRequest)WebRequest.Create(apiURLLocation + "");
 			request.ContentType = "application/json; charset=utf-8";
-			request.Accept = "application/xml";
+			request.Accept = "application/json";
 			request.Method = "POST";
 			request.Headers.Add(HttpRequestHeader.Authorization, apiAuthorization);
 			request.UserAgent = "ApiRequest";

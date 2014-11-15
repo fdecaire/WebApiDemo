@@ -8,3 +8,6 @@ C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetri
 C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\obj\Debug\WebApiRetriever.csprojResolveAssemblyReference.cache
 C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\obj\Debug\WebApiRetreiver.exe
 C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\obj\Debug\WebApiRetreiver.pdb
+C:\Users\Frank\Documents\GitHub\WebApiDemo\WebApiRetreiver\WebApiRetriever\bin\Debug\WebApiRetreiver.exe.config
+C:\Users\Frank\Documents\GitHub\WebApiDemo\WebApiRetreiver\WebApiRetriever\obj\Debug\WebApiRetreiver.exe
+C:\Users\Frank\Documents\GitHub\WebApiDemo\WebApiRetreiver\WebApiRetriever\obj\Debug\WebApiRetreiver.pdb
