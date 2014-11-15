@@ -1,0 +1,10 @@
+c:\users\frank\documents\visual studio 2012\Projects\WebApiRetreiver\WebApiRetreiver\bin\Debug\WebApiRetreiver.exe.config
+C:\Users\Frank\documents\visual studio 2012\Projects\WebApiRetreiver\WebApiRetreiver\bin\Debug\WebApiRetreiver.exe
+C:\Users\Frank\documents\visual studio 2012\Projects\WebApiRetreiver\WebApiRetreiver\bin\Debug\WebApiRetreiver.pdb
+C:\Users\Frank\documents\visual studio 2012\Projects\WebApiRetreiver\WebApiRetreiver\bin\Debug\log4net.dll
+C:\Users\Frank\documents\visual studio 2012\Projects\WebApiRetreiver\WebApiRetreiver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\documents\visual studio 2012\Projects\WebApiRetreiver\WebApiRetreiver\bin\Debug\log4net.xml
+C:\Users\Frank\documents\visual studio 2012\Projects\WebApiRetreiver\WebApiRetreiver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\documents\visual studio 2012\Projects\WebApiRetreiver\WebApiRetreiver\obj\Debug\WebApiRetreiver.exe
+C:\Users\Frank\documents\visual studio 2012\Projects\WebApiRetreiver\WebApiRetreiver\obj\Debug\WebApiRetreiver.pdb
+C:\Users\Frank\documents\visual studio 2012\Projects\WebApiRetreiver\WebApiRetreiver\obj\Debug\WebApiRetreiver.csprojResolveAssemblyReference.cache

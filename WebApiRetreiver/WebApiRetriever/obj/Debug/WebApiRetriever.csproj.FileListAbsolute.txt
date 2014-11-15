@@ -1,0 +1,10 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\bin\Debug\WebApiRetreiver.exe.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\bin\Debug\WebApiRetreiver.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\bin\Debug\WebApiRetreiver.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\bin\Debug\log4net.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\bin\Debug\log4net.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\obj\Debug\WebApiRetriever.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\obj\Debug\WebApiRetreiver.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\WebApiRetreiver\WebApiRetriever\obj\Debug\WebApiRetreiver.pdb
