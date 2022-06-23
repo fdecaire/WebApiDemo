@@ -19,3 +19,33 @@ C:\Users\Frank\documents\visual studio 2012\Projects\WebApiDemo\WebApiDemo\bin\S
 C:\Users\Frank\documents\visual studio 2012\Projects\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.dll
 C:\Users\Frank\documents\visual studio 2012\Projects\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.pdb
 C:\Users\Frank\documents\visual studio 2012\Projects\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.csprojResolveAssemblyReference.cache
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\WebApiDemo.dll.config
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\WebApiDemo.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\WebApiDemo.pdb
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\Newtonsoft.Json.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Net.Http.Formatting.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.Helpers.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.Http.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.Http.WebHost.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.Mvc.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.Razor.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\Newtonsoft.Json.xml
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Net.Http.Formatting.xml
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.Helpers.xml
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.Http.xml
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.Http.WebHost.xml
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.Mvc.xml
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.Razor.xml
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.xml
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.csproj.AssemblyReference.cache
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.csproj.CoreCompileInputs.cache
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.csproj.CopyComplete
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.dll
+D:\GitHub\WebApiDemo\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.pdb
